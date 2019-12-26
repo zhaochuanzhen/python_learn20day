@@ -1,5 +1,5 @@
 # 数据类型和变量
-##字符串
+## 字符串
 <p>字符串是以单引号<code>'</code>或双引号<code>"</code>括起来的任意文本，比如<code>'abc'</code>，<code>"xyz"</code>等等。请注意，<code>''</code>或<code>""</code>本身只是一种表示方式，不是字符串的一部分，因此，字符串<code>'abc'</code>只有<code>a</code>，<code>b</code>，<code>c</code>这3个字符。如果<code>'</code>本身也是一个字符，那就可以用<code>""</code>括起来，比如<code>"I'm OK"</code>包含的字符是<code>I</code>，<code>'</code>，<code>m</code>，空格，<code>O</code>，<code>K</code>这6个字符。</p>
 
 <p>如果字符串内部既包含<code>'</code>又包含<code>"</code>怎么办？可以用转义字符<code>\</code>来标识，比如：</p>
