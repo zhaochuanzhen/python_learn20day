@@ -1,7 +1,7 @@
 # python 学习
 > 本项目包含python入门到实战的学习记录，依托于[廖雪峰技术博文](https://www.liaoxuefeng.com/wiki/1016959663602400)进行学习，大致包含20个模块的内容，耗时20天完成学习计划
 
-[python基础](practice01_basic/README.md)
+[python基础](practice01_basic/markdown/README.md)
 
 [函数](practice02_function/README.md)
 

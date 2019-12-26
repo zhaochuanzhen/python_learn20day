@@ -1,7 +1,7 @@
 """
-description: 我的第一个程序
-Version: 1.0
-Date: 2019年12月24日17:47:46
+desc: 我的第一个程序
+version: 1.0
+date: 2019年12月24日17:47:46
 """
 import turtle
 
