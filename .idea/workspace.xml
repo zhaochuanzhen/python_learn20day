@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a4945b0-8013-4bcf-a7cc-19a932660e69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice10_thread/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice11_pattern/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice12_built_module/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice13_third_module/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice14_gui/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice15_tcpip/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice16_email/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice17_database/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice18_web/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice19_syncio/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice20_develop/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice2_function/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice3_advance_feature/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice4_function_programe/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice5_module/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice6_oop/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice7_oop_high/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice8_error_test/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_learn20day/practice9_io/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_learn20day/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_learn20day/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_learn20day/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../python_learn20day/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_learn20day/practice1_basic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../python_learn20day/practice1_basic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01_basic/test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_learn20day.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn20day.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice01_basic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice01_basic/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,17 +20,51 @@
     <SUITE FILE_PATH="coverage/learn_30day$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1577327160727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice1_basic" />
     <SUITE FILE_PATH="coverage/learn_30day$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1577183193756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/junior" />
     <SUITE FILE_PATH="coverage/learn_30day$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1577237160298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/junior" />
+    <SUITE FILE_PATH="coverage/python_learn20day$test01__1_.coverage" NAME="test01 (1) Coverage Results" MODIFIED="1577331868235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice01_basic" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../python_learn20day/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="157">
-                <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+              <first_editor relative-caret-position="333">
+                <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice01_basic/test.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="396">
+                <caret line="111" column="49" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice01_basic/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="399">
+                <caret line="96" column="7" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice01_basic/test01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -60,10 +79,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../python_learn20day" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../python_learn20day" value="master" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -75,27 +94,29 @@
         <option value="$PROJECT_DIR$/junior/test01.py" />
         <option value="$PROJECT_DIR$/practice1_basic/README.md" />
         <option value="$PROJECT_DIR$/practice1_basic/test02.py" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice2_function/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice1_basic/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice3_advance_feature/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice4_function_programe/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice5_module/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice6_oop/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice7_oop_high/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice8_error_test/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice9_io/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice10_thread/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice11_pattern/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice12_built_module/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice13_third_module/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice14_gui/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice15_tcpip/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice16_email/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice17_database/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice18_web/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice19_syncio/README.md" />
-        <option value="$PROJECT_DIR$/../python_learn20day/practice20_develop/README.md" />
+        <option value="$PROJECT_DIR$/practice2_function/README.md" />
+        <option value="$PROJECT_DIR$/practice1_basic/README.md" />
+        <option value="$PROJECT_DIR$/practice3_advance_feature/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/practice4_function_programe/README.md" />
+        <option value="$PROJECT_DIR$/practice5_module/README.md" />
+        <option value="$PROJECT_DIR$/practice6_oop/README.md" />
+        <option value="$PROJECT_DIR$/practice7_oop_high/README.md" />
+        <option value="$PROJECT_DIR$/practice8_error_test/README.md" />
+        <option value="$PROJECT_DIR$/practice9_io/README.md" />
+        <option value="$PROJECT_DIR$/practice10_thread/README.md" />
+        <option value="$PROJECT_DIR$/practice11_pattern/README.md" />
+        <option value="$PROJECT_DIR$/practice12_built_module/README.md" />
+        <option value="$PROJECT_DIR$/practice13_third_module/README.md" />
+        <option value="$PROJECT_DIR$/practice14_gui/README.md" />
+        <option value="$PROJECT_DIR$/practice15_tcpip/README.md" />
+        <option value="$PROJECT_DIR$/practice16_email/README.md" />
+        <option value="$PROJECT_DIR$/practice17_database/README.md" />
+        <option value="$PROJECT_DIR$/practice18_web/README.md" />
+        <option value="$PROJECT_DIR$/practice19_syncio/README.md" />
+        <option value="$PROJECT_DIR$/practice20_develop/README.md" />
+        <option value="$PROJECT_DIR$/practice01_basic/README.md" />
+        <option value="$PROJECT_DIR$/practice01_basic/test.md" />
       </list>
     </option>
   </component>
@@ -113,52 +134,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="learn-30day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learn-30day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
-              <item name="practice1_basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-30day" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
-              <item name="practice2_function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-30day" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
-              <item name="practice4_function_programe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-30day" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
-              <item name="practice5_module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-30day" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="practice01_basic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_learn20day" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -184,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test02 (1)">
+  <component name="RunManager" selected="Python.test01 (1)">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="python_learn20day" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,6 +246,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learn20day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice01_basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice01_basic/test01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -427,6 +450,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test01 (1)" />
         <item itemvalue="Python.test02 (1)" />
         <item itemvalue="Python.test01" />
         <item itemvalue="Python.test02" />
@@ -446,6 +470,7 @@
       <workItem from="1577179998096" duration="4933000" />
       <workItem from="1577252682199" duration="2367000" />
       <workItem from="1577320972939" duration="6923000" />
+      <workItem from="1577331627216" duration="2265000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1577327633063</created>
@@ -465,12 +490,36 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14223000" />
+    <option name="totallyTimeSpent" value="16488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24307036" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2457356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2457356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -491,7 +540,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -502,71 +551,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="developer分支" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice1_basic/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice1_basic/test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice1_basic/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="421">
-            <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice2_function/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice4_function_programe/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice3_advance_feature/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice5_module/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice6_oop/README.md">
+    <entry file="file://$PROJECT_DIR$/practice1_basic/test01.py" />
+    <entry file="file://$PROJECT_DIR$/practice1_basic/test02.py" />
+    <entry file="file://$PROJECT_DIR$/practice1_basic/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice2_function/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice4_function_programe/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice3_advance_feature/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice5_module/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice6_oop/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice7_oop_high/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice8_error_test/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice9_io/README.md" />
+    <entry file="file://$PROJECT_DIR$/practice10_thread/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -576,47 +572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice7_oop_high/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice8_error_test/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice9_io/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice10_thread/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice11_pattern/README.md">
+    <entry file="file://$PROJECT_DIR$/practice11_pattern/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -626,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice12_built_module/README.md">
+    <entry file="file://$PROJECT_DIR$/practice12_built_module/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -636,7 +592,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice13_third_module/README.md">
+    <entry file="file://$PROJECT_DIR$/practice13_third_module/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -646,7 +602,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice14_gui/README.md">
+    <entry file="file://$PROJECT_DIR$/practice14_gui/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -656,7 +612,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice15_tcpip/README.md">
+    <entry file="file://$PROJECT_DIR$/practice15_tcpip/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -666,7 +622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice16_email/README.md">
+    <entry file="file://$PROJECT_DIR$/practice16_email/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -676,7 +632,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice17_database/README.md">
+    <entry file="file://$PROJECT_DIR$/practice17_database/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -686,7 +642,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice18_web/README.md">
+    <entry file="file://$PROJECT_DIR$/practice18_web/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -696,7 +652,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice19_syncio/README.md">
+    <entry file="file://$PROJECT_DIR$/practice19_syncio/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -706,7 +662,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/practice20_develop/README.md">
+    <entry file="file://$PROJECT_DIR$/practice20_develop/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -716,11 +672,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python_learn20day/README.md">
+    <entry file="file://$PROJECT_DIR$/practice01_basic/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="157">
-            <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <first_editor relative-caret-position="399">
+            <caret line="96" column="7" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice01_basic/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="333">
+            <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice01_basic/test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="111" column="49" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>

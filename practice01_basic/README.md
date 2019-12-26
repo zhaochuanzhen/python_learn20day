@@ -79,5 +79,21 @@ PI = 3.14159265359
 ```
 <p>无论整数做<code>//</code>除法还是取余数，结果永远是整数，所以，整数运算结果永远是精确的。</p>
 
+## 本节练习题
+<p>打印如下变量的值</p>
+
+```javascript
+# -*- coding: utf-8 -*-
+n = 123
+f = 456.789
+s1 = 'Hello, world'
+s2 = 'Hello, \'Adam\''
+s3 = r'Hello, "Bart"'
+s4 = r'''Hello,
+Lisa!'''
+```
+
+# 字符串和编码
+## [字符编码](encoding.md)
 
 [返回主页](../README.md)
