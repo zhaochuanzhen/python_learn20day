@@ -1,6 +1,6 @@
 # 函数
 
-[返回主页](../README.md)
+[返回主页](../../README.md)
 
 
 <code class="language-ascii" style="font-family: &quot;Courier New&quot;, Consolas, monospace;">┌────────────────────────────────────────────────────────┐

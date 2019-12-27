@@ -3,40 +3,40 @@
 
 [python基础](practice01_basic/markdown/README.md)
 
-[函数](practice02_function/README.md)
+[函数](practice02_function/markdown/README.md)
 
-[高级特性](practice03_advance_feature/README.md)
+[高级特性](practice03_advance_feature/markdown/README.md)
 
-[函数式编程](practice04_function_programe/README.md)
+[函数式编程](practice04_function_programe/markdown/README.md)
 
-[模块](practice05_module/README.md)
+[模块](practice05_module/markdown/README.md)
 
-[面向对象编程](practice06_oop/README.md)
+[面向对象编程](practice06_oop/markdown/README.md)
 
-[面向对象高级编程](practice07_oop_high/README.md)
+[面向对象高级编程](practice07_oop_high/markdown/README.md)
 
-[错误、调试和测试](practice08_error_test/README.md)
+[错误、调试和测试](practice08_error_test/markdown/README.md)
 
-[IO编程](practice09_io/README.md)
+[IO编程](practice09_io/markdown/README.md)
 
-[进程和线程](practice10_thread/README.md)
+[进程和线程](practice10_thread/markdown/README.md)
 
-[正则表达式](practice11_pattern/README.md)
+[正则表达式](practice11_pattern/markdown/README.md)
 
-[常用内建模块](practice12_built_module/README.md)
+[常用内建模块](practice12_built_module/markdown/README.md)
 
-[常用第三方模块](practice13_third_module/README.md)
+[常用第三方模块](practice13_third_module/markdown/README.md)
 
-[图形界面](practice14_gui/README.md)
+[图形界面](practice14_gui/markdown/README.md)
 
-[网络编程](practice15_tcpip/README.md)
+[网络编程](practice15_tcpip/markdown/README.md)
 
-[电子邮件](practice16_email/README.md)
+[电子邮件](practice16_email/markdown/README.md)
 
-[访问数据库](practice17_database/README.md)
+[访问数据库](practice17_database/markdown/README.md)
 
-[Web开发](practice18_web/README.md)
+[Web开发](practice18_web/markdown/README.md)
 
-[异步IO](practice19_syncio/README.md)
+[异步IO](practice19_syncio/markdown/README.md)
 
-[实战开发](practice20_develop/README.md)
+[实战开发](practice20_develop/markdown/README.md)
