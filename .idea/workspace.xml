@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a4945b0-8013-4bcf-a7cc-19a932660e69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice02_function/my_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice02_function/test03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice02_function/test04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice02_function/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice02_function/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice02_function/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice02_function/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice02_function/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice02_function/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice03_advance_feature/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice03_advance_feature/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice05_module/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice05_module/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice06_oop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice06_oop/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice07_oop_high/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice07_oop_high/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice08_error_test/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice08_error_test/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice09_io/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice09_io/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice10_thread/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice10_thread/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice11_pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice11_pattern/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice12_built_module/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice12_built_module/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice13_third_module/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice13_third_module/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice14_gui/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice14_gui/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice15_tcpip/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice15_tcpip/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice16_email/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice16_email/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice17_database/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice17_database/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice18_web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice18_web/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice19_syncio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice19_syncio/markdown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice20_develop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practice20_develop/markdown/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,29 +44,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice02_function/test03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice02_function/test04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="168">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice02_function/my_func.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="801">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <entry file="file://$PROJECT_DIR$/practice10_thread/markdown/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="56">
+                <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -85,19 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/junior/test02.py" />
-        <option value="$PROJECT_DIR$/junior/test01.py" />
-        <option value="$PROJECT_DIR$/practice1_basic/README.md" />
-        <option value="$PROJECT_DIR$/practice1_basic/test02.py" />
-        <option value="$PROJECT_DIR$/practice2_function/README.md" />
-        <option value="$PROJECT_DIR$/practice1_basic/README.md" />
-        <option value="$PROJECT_DIR$/practice3_advance_feature/README.md" />
-        <option value="$PROJECT_DIR$/practice4_function_programe/README.md" />
-        <option value="$PROJECT_DIR$/practice5_module/README.md" />
-        <option value="$PROJECT_DIR$/practice6_oop/README.md" />
-        <option value="$PROJECT_DIR$/practice7_oop_high/README.md" />
-        <option value="$PROJECT_DIR$/practice8_error_test/README.md" />
-        <option value="$PROJECT_DIR$/practice9_io/README.md" />
         <option value="$PROJECT_DIR$/practice10_thread/README.md" />
         <option value="$PROJECT_DIR$/practice11_pattern/README.md" />
         <option value="$PROJECT_DIR$/practice12_built_module/README.md" />
@@ -118,8 +115,6 @@
         <option value="$PROJECT_DIR$/practice01_basic/list_tuple.md" />
         <option value="$PROJECT_DIR$/practice01_basic/README.md" />
         <option value="$PROJECT_DIR$/practice01_basic/markdown/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/practice01_basic/test04.py" />
         <option value="$PROJECT_DIR$/practice01_basic/markdown/list_tuple.md" />
         <option value="$PROJECT_DIR$/practice01_basic/test05.py" />
@@ -131,6 +126,26 @@
         <option value="$PROJECT_DIR$/practice02_function/test01.py" />
         <option value="$PROJECT_DIR$/practice02_function/test03.py" />
         <option value="$PROJECT_DIR$/practice02_function/test04.py" />
+        <option value="$PROJECT_DIR$/practice02_function/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice03_advance_feature/markdown/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/practice05_module/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice06_oop/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice07_oop_high/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice08_error_test/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice09_io/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice10_thread/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice11_pattern/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice12_built_module/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice13_third_module/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice14_gui/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice15_tcpip/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice16_email/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice17_database/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice18_web/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice19_syncio/markdown/README.md" />
+        <option value="$PROJECT_DIR$/practice20_develop/markdown/README.md" />
       </list>
     </option>
   </component>
@@ -159,12 +174,164 @@
             <path>
               <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
-              <item name="practice01_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="practice03_advance_feature" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
-              <item name="practice02_function" type="462c0819:PsiDirectoryNode" />
+              <item name="practice03_advance_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice04_function_programe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice05_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice05_module" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice06_oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice06_oop" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice07_oop_high" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice07_oop_high" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice08_error_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice08_error_test" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice09_io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice09_io" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice10_thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice10_thread" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice11_pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice11_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice12_built_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice12_built_module" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice13_third_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice13_third_module" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice14_gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice14_gui" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice15_tcpip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice15_tcpip" type="462c0819:PsiDirectoryNode" />
+              <item name="markdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice16_email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice17_database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice18_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice19_syncio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_learn20day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learn20day" type="462c0819:PsiDirectoryNode" />
+              <item name="practice20_develop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,16 +349,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\workspace\python\python_learn20day\practice01_basic\markdown" />
-      <recent name="F:\workspace\python\learn-30day\practice1_basic" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\workspace\python\python_learn20day\practice20_develop" />
       <recent name="F:\workspace\python\python_learn20day\practice19_syncio" />
       <recent name="F:\workspace\python\python_learn20day\practice18_web" />
       <recent name="F:\workspace\python\python_learn20day\practice17_database" />
       <recent name="F:\workspace\python\python_learn20day\practice16_email" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace\python\python_learn20day\practice20_develop\markdown" />
+      <recent name="F:\workspace\python\python_learn20day\practice19_syncio\markdown" />
+      <recent name="F:\workspace\python\python_learn20day\practice18_web\markdown" />
+      <recent name="F:\workspace\python\python_learn20day\practice17_database\markdown" />
+      <recent name="F:\workspace\python\python_learn20day\practice16_email\markdown" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,7 +511,7 @@
       <workItem from="1577252682199" duration="2367000" />
       <workItem from="1577320972939" duration="6923000" />
       <workItem from="1577331627216" duration="13199000" />
-      <workItem from="1577408802167" duration="11197000" />
+      <workItem from="1577408802167" duration="11866000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1577327633063</created>
@@ -378,22 +548,28 @@
       <option name="project" value="LOCAL" />
       <updated>1577355661086</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="函数">
+      <created>1577428187472</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577428187472</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38619000" />
+    <option name="totallyTimeSpent" value="39288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946696" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24946696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.35032538" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.35032538" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -434,116 +610,6 @@
     <entry file="file://$PROJECT_DIR$/practice7_oop_high/README.md" />
     <entry file="file://$PROJECT_DIR$/practice8_error_test/README.md" />
     <entry file="file://$PROJECT_DIR$/practice9_io/README.md" />
-    <entry file="file://$PROJECT_DIR$/practice10_thread/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice11_pattern/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice12_built_module/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice13_third_module/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice14_gui/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice15_tcpip/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice16_email/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice17_database/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice18_web/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice19_syncio/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice20_develop/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice01_basic/markdown/testr.html" />
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/489387602/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -557,26 +623,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="264">
             <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice02_function/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
@@ -686,6 +732,196 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice02_function/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice03_advance_feature/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice05_module/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice06_oop/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice07_oop_high/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice08_error_test/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice09_io/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice11_pattern/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice12_built_module/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice13_third_module/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice14_gui/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice15_tcpip/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice16_email/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice17_database/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice18_web/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice19_syncio/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice20_develop/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice10_thread/markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
