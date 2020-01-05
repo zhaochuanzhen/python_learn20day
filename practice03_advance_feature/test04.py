@@ -14,14 +14,32 @@ for n in g1:
 print('=============斐波拉契数列=================')
 
 
-def fib(max):
+def fib(num):
     n, a, b = 0, 0, 1
-    while n < max:
+    while n < num:
         yield b
         a, b = b, a + b
-        n = n + 1
-    return 'done'
+        n += 1
 
 
-for g in fib(7):
-    print(g)
+f = fib(10)
+for i in f:
+    print(i)
+
+print('=============杨辉三角=================')
+
+
+def yanghui():
+    a = [1]
+    while True:
+        yield a
+        a = [1] + [a[i] + a[i + 1] for i in range(len(a) - 1)] + [1]
+
+
+y = yanghui()
+n = 0
+for i in y:
+    print(i)
+    n += 1
+    if n > 10:
+        break
