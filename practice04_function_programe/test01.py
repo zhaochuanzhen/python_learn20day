@@ -1,109 +1,121 @@
 """
-desc: 高阶函数
+desc: map/reduce
 author: 赵传真
-date: 2020年1月2日11:30:30
+date: 2020/01/04
 """
 
 # !/usr/bin/env python3
 # -*- encoding: UTF-8 -*-
+
 from functools import reduce
 
-
-def test(a, b, f):
-    return f(a) + f(b)
-
-
-print(test(-4, 5, abs))
-
-print("==================map/reduce=====================")
+print('==================map===============')
+l1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 
-def f1(a):
-    return a ** 2
+def f1(num):
+    return num ** 2
 
 
-m1 = map(f1, [1, 2, 3, 4, 5])
-print(list(m1))
+m1 = map(f1, l1)
+print(tuple(m1))
 
 
-def add(x, y):
+def f2(num):
+    return str(num)
+
+
+m2 = map(f2, l1)
+print(tuple(m2))
+
+print('================reduce=================')
+
+
+def f3(x, y):
     return x + y
 
 
-print(reduce(add, [1, 2, 3, 4, 5]))
+r1 = reduce(f3, l1)
+print(r1)
+print(sum(l1))
 
 
-def f1(x, y):
+def f4(x, y):
     return x * 10 + y
 
 
-print(reduce(f1, [1, 2, 3, 4, 5, 6]))
+r2 = reduce(f4, l1)
+print(r2)
 
 
-def f2(s):
+def f5(s):
     digits = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}
     return digits[s]
 
 
-print(reduce(f1, map(f2, '123456')))
+s1 = '123456758'
+r3 = reduce(f4, map(f5, s1))
+print(r3)
 
 
-def f3(s):
-    digits = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '.': '.'}
-
-    def f31(x, y):
+def str2int(s):
+    def f6(x, y):
         return x * 10 + y
 
-    def f32(s):
-        return digits[s]
+    def f7(k):
+        digits = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}
+        return digits[k]
 
-    return reduce(f31, map(f32, s))
-
-
-print(f3('123456'))
+    return reduce(f6, map(f7, s))
 
 
-def f4(s):
-    return reduce(lambda x, y: x * 10 + y, map(f2, s))
+print(str2int('89485984589'))
 
 
-print(f4('123456'))
+def f8(s):
+    def f9(k):
+        digits = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}
+        return digits[k]
 
-print('=============练习题==============')
-
-
-def f6(name):
-    n = 0
-    str = ''
-    for i in name:
-        if n == 0:
-            str += i.upper()
-        else:
-            str += i
-        n += 1
-    return str
+    return reduce(lambda x, y: x * 10 + y, map(f9, s))
 
 
-def f5(name):
-    return f6(name.lower())
+print(f8('99484883'))
+
+print('=================练习题===================')
+
+# 利用map()函数，把用户输入的不规范的英文名字，变为首字母大写，其他小写的规范名字。输入：['adam', 'LISA', 'barT']，输出：['Adam', 'Lisa', 'Bart']：
+l2 = ['adam', 'LISA', 'barT']
 
 
-l1 = ['adam', 'LISA', 'barT']
-print(list(map(f5, l1)))
+def f10(s):
+    return s.capitalize()
 
 
-def f7(l):
-    def f6(x, y):
-        return x * y
-
-    return reduce(f6, l)
+print(list(map(f10, l2)))
 
 
-print('3 * 5 * 7 * 9 =', f7([3, 5, 7, 9]))
+# Python提供的sum()函数可以接受一个list并求和，请编写一个prod()函数，可以接受一个list并利用reduce()求积：
+def prod(l):
+    return reduce(lambda x, y: x * y, l)
 
 
-def str2float(s):
-    return 1
+l3 = [1, 3, 5, 7, 9]
+
+print(prod(l3))
 
 
-print('str2float(\'123.456\') =', str2float('123.456'))
+# 利用map和reduce编写一个str2float函数，把字符串'123.456'转换成浮点数123.456：
+def f11(s):
+    def f12(k):
+        digits = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}
+        return digits[k]
+
+    index = s.index('.')
+    s = s.replace('.', '')
+    n = reduce(lambda x, y: x * 10 + y, map(f12, s))
+    return n / (10 ** index)
+
+
+s1 = '123.456'
+print(f11(s1))
