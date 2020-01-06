@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a4945b0-8013-4bcf-a7cc-19a932660e69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice04_function_programe/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice04_function_programe/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice04_function_programe/test03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice04_function_programe/test04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice04_function_programe/test05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice03_advance_feature/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice03_advance_feature/test01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +23,15 @@
     <SUITE FILE_PATH="coverage/python_learn20day$test04__1_.coverage" NAME="test04 (1) Coverage Results" MODIFIED="1577710882480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice03_advance_feature" />
     <SUITE FILE_PATH="coverage/learn_30day$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1577183193756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/junior" />
     <SUITE FILE_PATH="coverage/python_learn20day$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1578149523423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice04_function_programe" />
-    <SUITE FILE_PATH="coverage/python_learn20day$test05.coverage" NAME="test05 Coverage Results" MODIFIED="1578140525896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice03_advance_feature" />
-    <SUITE FILE_PATH="coverage/python_learn20day$test04.coverage" NAME="test04 Coverage Results" MODIFIED="1577427905006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice02_function" />
+    <SUITE FILE_PATH="coverage/python_learn20day$test05.coverage" NAME="test05 Coverage Results" MODIFIED="1578236887538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice04_function_programe" />
+    <SUITE FILE_PATH="coverage/python_learn20day$test04.coverage" NAME="test04 Coverage Results" MODIFIED="1578233843732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice04_function_programe" />
     <SUITE FILE_PATH="coverage/python_learn20day$test06.coverage" NAME="test06 Coverage Results" MODIFIED="1577348077935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice01_basic" />
     <SUITE FILE_PATH="coverage/learn_30day$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1577327160727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice1_basic" />
     <SUITE FILE_PATH="coverage/python_learn20day$test02__2_.coverage" NAME="test02 (2) Coverage Results" MODIFIED="1577341930465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice01_basic" />
     <SUITE FILE_PATH="coverage/python_learn20day$test07.coverage" NAME="test07 Coverage Results" MODIFIED="1577350067677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice01_basic" />
-    <SUITE FILE_PATH="coverage/python_learn20day$test01__1_.coverage" NAME="test01 (1) Coverage Results" MODIFIED="1577430306838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice03_advance_feature" />
-    <SUITE FILE_PATH="coverage/python_learn20day$test03.coverage" NAME="test03 Coverage Results" MODIFIED="1577416824712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice02_function" />
+    <SUITE FILE_PATH="coverage/python_learn20day$test01__1_.coverage" NAME="test01 (1) Coverage Results" MODIFIED="1578236306593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice03_advance_feature" />
+    <SUITE FILE_PATH="coverage/python_learn20day$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1578232358924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice04_function_programe" />
+    <SUITE FILE_PATH="coverage/python_learn20day$test03.coverage" NAME="test03 Coverage Results" MODIFIED="1578232907051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice04_function_programe" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="362215793">
@@ -38,22 +43,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="7" />
+          <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="7" />
+          <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1243" />
+          <entry key="py" value="2901" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1243" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="2901" />
         </counts>
       </usages-collector>
     </session>
@@ -61,27 +70,53 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice03_advance_feature/test05.py">
+        <entry file="file://$PROJECT_DIR$/practice04_function_programe/test02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+            <state relative-caret-position="792">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+              <folding>
+                <marker date="1578232379287" expanded="true" signature="110:196" ph="..." />
+                <marker date="1578232379287" expanded="true" signature="208:280" ph="..." />
+                <marker date="1578232379287" expanded="true" signature="794:871" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice04_function_programe/test03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <marker date="1578232907039" expanded="true" signature="62:122" ph="..." />
+                <marker date="1578232907039" expanded="true" signature="175:339" ph="..." />
+                <marker date="1578232907039" expanded="true" signature="401:479" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice04_function_programe/test04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1578233843719" expanded="true" signature="427:454" ph="..." />
+                <marker date="1578233843719" expanded="true" signature="492:497" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice04_function_programe/test01.py">
+        <entry file="file://$PROJECT_DIR$/practice04_function_programe/test05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1578149523416" expanded="true" signature="229:285" ph="..." />
-                <marker date="1578149523416" expanded="true" signature="300:407" ph="..." />
-                <marker date="1578149523416" expanded="true" signature="502:557" ph="..." />
-                <marker date="1578149523416" expanded="true" signature="569:570" ph="..." />
-                <marker date="1578149523416" expanded="true" signature="569:743" ph="..." />
-                <marker date="1578149523416" expanded="true" signature="760:944" ph="..." />
-                <marker date="1578149523416" expanded="true" signature="2005:2007" ph="..." />
+                <marker date="1578236887526" expanded="true" signature="14:19" ph="..." />
               </folding>
             </state>
           </provider>
@@ -114,10 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice17_database/README.md" />
-        <option value="$PROJECT_DIR$/practice18_web/README.md" />
-        <option value="$PROJECT_DIR$/practice19_syncio/README.md" />
-        <option value="$PROJECT_DIR$/practice20_develop/README.md" />
         <option value="$PROJECT_DIR$/practice01_basic/test.md" />
         <option value="$PROJECT_DIR$/practice01_basic/encoding.md" />
         <option value="$PROJECT_DIR$/practice01_basic/test01.py" />
@@ -157,7 +188,6 @@
         <option value="$PROJECT_DIR$/practice19_syncio/markdown/README.md" />
         <option value="$PROJECT_DIR$/practice20_develop/markdown/README.md" />
         <option value="$PROJECT_DIR$/practice02_function/markdown/README.md" />
-        <option value="$PROJECT_DIR$/practice03_advance_feature/test01.py" />
         <option value="$PROJECT_DIR$/practice03_advance_feature/test02.py" />
         <option value="$PROJECT_DIR$/practice03_advance_feature/test03.py" />
         <option value="$PROJECT_DIR$/practice03_advance_feature/test04.py" />
@@ -165,6 +195,11 @@
         <option value="$PROJECT_DIR$/practice03_advance_feature/test06.py" />
         <option value="$PROJECT_DIR$/practice03_advance_feature/markdown/README.md" />
         <option value="$PROJECT_DIR$/practice04_function_programe/test01.py" />
+        <option value="$PROJECT_DIR$/practice04_function_programe/test02.py" />
+        <option value="$PROJECT_DIR$/practice04_function_programe/test03.py" />
+        <option value="$PROJECT_DIR$/practice04_function_programe/test04.py" />
+        <option value="$PROJECT_DIR$/practice03_advance_feature/test01.py" />
+        <option value="$PROJECT_DIR$/practice04_function_programe/test05.py" />
       </list>
     </option>
   </component>
@@ -227,19 +262,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\workspace\python\python_learn20day\practice20_develop" />
-      <recent name="F:\workspace\python\python_learn20day\practice19_syncio" />
-      <recent name="F:\workspace\python\python_learn20day\practice18_web" />
-      <recent name="F:\workspace\python\python_learn20day\practice17_database" />
-      <recent name="F:\workspace\python\python_learn20day\practice16_email" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\workspace\python\python_learn20day\practice20_develop\markdown" />
       <recent name="F:\workspace\python\python_learn20day\practice19_syncio\markdown" />
       <recent name="F:\workspace\python\python_learn20day\practice18_web\markdown" />
       <recent name="F:\workspace\python\python_learn20day\practice17_database\markdown" />
       <recent name="F:\workspace\python\python_learn20day\practice16_email\markdown" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practice04_function_programe" />
+      <recent name="F:\workspace\python\python_learn20day\practice20_develop" />
+      <recent name="F:\workspace\python\python_learn20day\practice19_syncio" />
+      <recent name="F:\workspace\python\python_learn20day\practice18_web" />
+      <recent name="F:\workspace\python\python_learn20day\practice17_database" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -254,8 +289,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test01">
-    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test05">
+    <configuration name="test01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learn20day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice03_advance_feature" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice03_advance_feature/test01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn20day" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,7 +325,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice04_function_programe/test01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice04_function_programe/test02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn20day" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,12 +342,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice03_advance_feature" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice04_function_programe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice03_advance_feature/test02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice04_function_programe/test03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +356,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test03 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learn20day" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,34 +364,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice03_advance_feature" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice04_function_programe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice03_advance_feature/test03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_learn20day" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice03_advance_feature" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice03_advance_feature/test04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice04_function_programe/test04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,12 +386,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice03_advance_feature" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice04_function_programe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice03_advance_feature/test05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice04_function_programe/test05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,19 +401,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test02" />
-      <item itemvalue="Python.test03 (1)" />
-      <item itemvalue="Python.test04 (1)" />
+      <item itemvalue="Python.test02 (1)" />
+      <item itemvalue="Python.test03" />
+      <item itemvalue="Python.test04" />
+      <item itemvalue="Python.test01 (1)" />
       <item itemvalue="Python.test05" />
-      <item itemvalue="Python.test01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test01" />
         <item itemvalue="Python.test05" />
-        <item itemvalue="Python.test04 (1)" />
-        <item itemvalue="Python.test03 (1)" />
-        <item itemvalue="Python.test02" />
+        <item itemvalue="Python.test01 (1)" />
+        <item itemvalue="Python.test04" />
+        <item itemvalue="Python.test03" />
+        <item itemvalue="Python.test02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577710901509</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="map-reduce">
+      <created>1578230122133</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578230122133</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -485,14 +527,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18025751" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18025751" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.34324658" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.34324658" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39827254" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -502,7 +543,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.329718" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -548,18 +589,10 @@
     <MESSAGE value="目录调整" />
     <MESSAGE value="markdown优化" />
     <MESSAGE value="杨辉三角" />
-    <option name="LAST_COMMIT_MESSAGE" value="杨辉三角" />
+    <MESSAGE value="map-reduce" />
+    <option name="LAST_COMMIT_MESSAGE" value="map-reduce" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice04_function_programe/test01.py</url>
-          <line>115</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="n / (10 * index)" language="Python" />
@@ -576,11 +609,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice6_oop/README.md" />
-    <entry file="file://$PROJECT_DIR$/practice7_oop_high/README.md" />
-    <entry file="file://$PROJECT_DIR$/practice8_error_test/README.md" />
-    <entry file="file://$PROJECT_DIR$/practice9_io/README.md" />
-    <entry file="file://$PROJECT_DIR$/practice01_basic/markdown/testr.html" />
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/489387602/builtins.py" />
     <entry file="file://$PROJECT_DIR$/practice02_function/test01.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -894,13 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice03_advance_feature/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1400">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice03_advance_feature/test02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -940,17 +961,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice03_advance_feature/test05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice04_function_programe/test01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        <state relative-caret-position="109">
+          <caret line="110" column="7" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="7" />
           <folding>
             <marker date="1578149523416" expanded="true" signature="229:285" ph="..." />
             <marker date="1578149523416" expanded="true" signature="300:407" ph="..." />
@@ -959,6 +973,72 @@
             <marker date="1578149523416" expanded="true" signature="569:743" ph="..." />
             <marker date="1578149523416" expanded="true" signature="760:944" ph="..." />
             <marker date="1578149523416" expanded="true" signature="2005:2007" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice03_advance_feature/test05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice04_function_programe/test03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <marker date="1578232907039" expanded="true" signature="62:122" ph="..." />
+            <marker date="1578232907039" expanded="true" signature="175:339" ph="..." />
+            <marker date="1578232907039" expanded="true" signature="401:479" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="931" column="11" selection-start-line="931" selection-start-column="11" selection-end-line="931" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice03_advance_feature/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice04_function_programe/test02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <marker date="1578232379287" expanded="true" signature="110:196" ph="..." />
+            <marker date="1578232379287" expanded="true" signature="208:280" ph="..." />
+            <marker date="1578232379287" expanded="true" signature="794:871" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice04_function_programe/test04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1578233843719" expanded="true" signature="427:454" ph="..." />
+            <marker date="1578233843719" expanded="true" signature="492:497" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice04_function_programe/test05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1578236887526" expanded="true" signature="14:19" ph="..." />
           </folding>
         </state>
       </provider>
