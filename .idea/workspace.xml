@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a4945b0-8013-4bcf-a7cc-19a932660e69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice07_oop_high/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice07_oop_high/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice07_oop_high/test03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice07_oop_high/test04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice07_oop_high/test05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice07_oop_high/test06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice07_oop_high/test07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice07_oop_high/test08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,11 +87,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice07_oop_high/test07.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="293">
+              <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice07_oop_high/test08.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -130,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice01_basic/markdown/testr.html" />
         <option value="$PROJECT_DIR$/practice02_function/README.md" />
         <option value="$PROJECT_DIR$/practice02_function/my_func.py" />
         <option value="$PROJECT_DIR$/practice02_function/test01.py" />
@@ -181,6 +183,7 @@
         <option value="$PROJECT_DIR$/practice07_oop_high/test05.py" />
         <option value="$PROJECT_DIR$/practice07_oop_high/test06.py" />
         <option value="$PROJECT_DIR$/practice07_oop_high/test07.py" />
+        <option value="$PROJECT_DIR$/practice07_oop_high/test08.py" />
       </list>
     </option>
   </component>
@@ -401,7 +404,7 @@
       <workItem from="1577928492399" duration="3551000" />
       <workItem from="1578274418625" duration="8923000" />
       <workItem from="1578360976939" duration="6583000" />
-      <workItem from="1578447142935" duration="9408000" />
+      <workItem from="1578447142935" duration="12644000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1577327633063</created>
@@ -508,21 +511,28 @@
       <option name="project" value="LOCAL" />
       <updated>1578402162071</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="面向对象高级编程">
+      <created>1578467155394</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578467155394</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77400000" />
+    <option name="totallyTimeSpent" value="80636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.29392624" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.29392624" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39827254" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -619,7 +629,8 @@
     <MESSAGE value="高级特性" />
     <MESSAGE value="模块" />
     <MESSAGE value="类和实例" />
-    <option name="LAST_COMMIT_MESSAGE" value="类和实例" />
+    <MESSAGE value="面向对象高级编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="面向对象高级编程" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -638,16 +649,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice09_io/markdown/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="56">
-            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice11_pattern/markdown/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1026,8 +1027,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practice07_oop_high/test07.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="293">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice07_oop_high/test08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
